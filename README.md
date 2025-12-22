@@ -14,3 +14,6 @@
 
 ## Автор
 Шехаб Софья
+
+## github
+"https://github.com/dsswxf/ono-tebe-nado-fd/edit/main/README.md"
